@@ -684,9 +684,7 @@
       "image": "http://www.psma.ru/images/news/2015/october/8.jpg",
       "phoneNumber": "+7 (342) 217-20-20",
       "location_univer": "г. Пермь, ул. Петропавловская, д. 26",
-      "educationPrograms": [
-
-      ]
+      "educationPrograms": []
     },
     {
       "id": 6,
@@ -701,9 +699,7 @@
       "image": "https://static.panoramio.com.storage.googleapis.com/photos/large/58171830.jpg",
       "phoneNumber": "+7 (342) 230-30-31",
       "location_univer": "г. Пермь, ул. Максима Горького, д.1 ",
-      "educationPrograms": [
-
-      ]
+      "educationPrograms": []
     },
     {
       "id": 7,
@@ -718,9 +714,7 @@
       "image": "http://s0.rbk.ru/v6_top_pics/media/img/0/82/754894688530820.jpg",
       "phoneNumber": "",
       "location_univer": "г. Пермь, Комсомольский пр-т, д. 29 ",
-      "educationPrograms": [
-
-      ]
+      "educationPrograms": []
     },
     {
       "id": 8,
@@ -735,9 +729,7 @@
       "image": "http://domofoto.ru/photo/00/83/58/83583.jpg",
       "phoneNumber": "+7 (902) 83-59-209",
       "location_univer": "г. Пермь, ул. Петропавловская, д. 23",
-      "educationPrograms": [
-
-      ]
+      "educationPrograms": []
     },
     {
       "id": 9,
@@ -752,10 +744,8 @@
       "image": "http://photos.wikimapia.org/p/00/03/13/47/91_big.jpg",
       "phoneNumber": "+7 (342) 281-95-52",
       "location_univer": "г. Пермь, б-р Гагарина, д. 35",
-      "educationPrograms": [
-
-      ]
-    },
+      "educationPrograms": []
+    }
   ],
   "professions": [],
   "educationPrograms": []
