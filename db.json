@@ -670,7 +670,92 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "id": 6,
+      "name": "Пермский государственный медицинский университет имени академика Е.А. Вагнера",
+      "about": "",
+      "average_ege": 72.31,
+      "priceEducation": "70000",
+      "website_link": "http://www.psma.ru",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 750,
+      "image": "http://www.psma.ru/images/news/2015/october/8.jpg",
+      "phoneNumber": "+7 (342) 217-20-20",
+      "location_univer": "г. Пермь, ул. Петропавловская, д. 26",
+      "educationPrograms": [
+
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Пермский институт железнодорожного транспорта - филиал Уральского государственного университета путей сообщения",
+      "about": "",
+      "average_ege": 68.11,
+      "priceEducation": "45100",
+      "website_link": "http://pirt.usurt.ru/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 350,
+      "image": "https://static.panoramio.com.storage.googleapis.com/photos/large/58171830.jpg",
+      "phoneNumber": "+7 (342) 230-30-31",
+      "location_univer": "г. Пермь, ул. Максима Горького, д.1 ",
+      "educationPrograms": [
+
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Пермский национальный исследовательский политехнический университет",
+      "about": "",
+      "average_ege": 65.3,
+      "priceEducation": "53000",
+      "website_link": "http://pstu.ru/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 4745,
+      "image": "http://s0.rbk.ru/v6_top_pics/media/img/0/82/754894688530820.jpg",
+      "phoneNumber": "",
+      "location_univer": "г. Пермь, Комсомольский пр-т, д. 29 ",
+      "educationPrograms": [
+
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Пермский государственный аграрно-технологический университет имени академика Д.Н. Прянишникова",
+      "about": "",
+      "average_ege": 48.53,
+      "priceEducation": "45000",
+      "website_link": "http://pgsha.ru/today/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 2671,
+      "image": "http://domofoto.ru/photo/00/83/58/83583.jpg",
+      "phoneNumber": "+7 (902) 83-59-209",
+      "location_univer": "г. Пермь, ул. Петропавловская, д. 23",
+      "educationPrograms": [
+
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Пермский филиал Волжского государственного университета водного транспорта",
+      "about": "",
+      "average_ege": 52,
+      "priceEducation": "53000",
+      "website_link": "http://vgavt-perm.ru/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 245,
+      "image": "http://photos.wikimapia.org/p/00/03/13/47/91_big.jpg",
+      "phoneNumber": "+7 (342) 281-95-52",
+      "location_univer": "г. Пермь, б-р Гагарина, д. 35",
+      "educationPrograms": [
+
+      ]
+    },
   ],
   "professions": [],
   "educationPrograms": []
