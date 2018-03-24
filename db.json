@@ -4,13 +4,15 @@
       "id": 1,
       "name": "Национального исследовательского университета \"Высшая школа экономики\"",
       "about": "about university",
-      "priceEducation": "100 000",
-      "average_priceEducation": "1000",
-
+      "priceEducation": "125 000",
       "average_ege": 78.03,
-      "average_ege_students":81.3,
+      "average_ege_students": 81.3,
       "website_link": "http://perm.hse.ru/",
       "location": "Пермь",
+      "countPlaces": 458,
+      "image": "https://perm.hse.ru/data/2015/09/02/1089919533/1st.jpg",
+      "phoneNumber": "7 (342) 200-96-96",
+      "location_univer": "г. Пермь, ул. Студенческая, 38",
       "educationPrograms": [
         {
           "name": "История",
@@ -20,24 +22,21 @@
           "universities": [],
           "countUniversities": 0,
           "countProfessions": 0,
-          "freeCountPlaces":20,
-          "passEgeValue":135,
-          "subjects":[
+          "freeCountPlaces": 20,
+          "passEgeValue": 135,
+          "subjects": [
             {
-            "name": "Русский язык",
-            "value": 34
-
+              "name": "Русский язык",
+              "value": 34
             },
             {
-            "name": "Иностранный язык",
-            "value": 45
-
+              "name": "Иностранный язык",
+              "value": 45
             },
             {
-            "name": "История",
-            "value": 40
+              "name": "История",
+              "value": 40
             }
-
           ]
         },
         {
@@ -48,24 +47,21 @@
           "universities": [],
           "countUniversities": 0,
           "countProfessions": 0,
-          "freeCountPlaces":20,
-          "passEgeValue":140,
-          "subjects":[
+          "freeCountPlaces": 20,
+          "passEgeValue": 140,
+          "subjects": [
             {
               "name": "Русский язык",
               "value": 45
-
             },
             {
               "name": "Математика",
               "value": 45
-
             },
             {
               "name": "Информатика",
               "value": 55
             }
-
           ]
         },
         {
@@ -77,17 +73,15 @@
           "countUniversities": 0,
           "countProfessions": 0,
           "freeCountPlaces": 42,
-          "passEgeValue":175,
-          "subjects":[
+          "passEgeValue": 175,
+          "subjects": [
             {
               "name": "Русский язык",
               "value": 45
-
             },
             {
               "name": "Математика",
               "value": 45
-
             },
             {
               "name": "Иностранный язык",
@@ -107,18 +101,16 @@
           "universities": [],
           "countUniversities": 0,
           "countProfessions": 0,
-          "freeCountPlaces":40,
-          "passEgeValue":175,
-          "subjects":[
+          "freeCountPlaces": 40,
+          "passEgeValue": 175,
+          "subjects": [
             {
               "name": "Русский язык",
               "value": 45
-
             },
             {
               "name": "Математика",
               "value": 45
-
             },
             {
               "name": "Иностранный язык",
@@ -138,18 +130,16 @@
           "universities": [],
           "countUniversities": 0,
           "countProfessions": 0,
-          "freeCountPlaces":25,
-          "passEgeValue":170,
-          "subjects":[
+          "freeCountPlaces": 25,
+          "passEgeValue": 170,
+          "subjects": [
             {
               "name": "Русский язык",
               "value": 45
-
             },
             {
               "name": "Математика",
               "value": 45
-
             },
             {
               "name": "Иностранный язык",
@@ -169,26 +159,23 @@
           "universities": [],
           "countUniversities": 0,
           "countProfessions": 0,
-          "freeCountPlaces":33,
-          "passEgeValue":130 ,
-          "subjects":[
+          "freeCountPlaces": 33,
+          "passEgeValue": 130,
+          "subjects": [
             {
               "name": "Русский язык",
               "value": 45
-
             },
             {
               "name": "Математика",
               "value": 45
-
             },
             {
               "name": "Иностранный язык",
               "value": 40
-            },
-
+            }
           ]
-        },
+        }
       ]
     },
     {
@@ -197,29 +184,30 @@
       "about": "Пермская государственная фармацевтическая академия организована в 1936 году как Пермский государственный фармацевтический институт.Академия имеет лицензию Федеральной службы по надзору в сфере образования и науки на право ведения образовательной деятельности в сфере высшего, послевузовского и дополнительного профессионального образования от 05.03.2013 г. № 0560 и свидетельство о государственной аккредитации от 05.02.2015 г.  № 1186 (сроком действия до 05 февраля 2021 года) на право выдачи выпускникам, прошедшим итоговую государственную аттестацию, документов об образовании государственного образца.",
       "priceEducation": "110000",
       "average_ege": 69.43,
-      "average_ege_students":74.38,
+      "average_ege_students": 74.38,
       "website_link": "http://www.pfa.ru",
       "location": "Пермь",
-      "directions":[],
-
+      "directions": [],
+      "countPlaces": 458,
+      "image": "https://perm.hse.ru/data/2015/09/02/1089919533/1st.jpg",
+      "phoneNumber": "7 (342) 200-96-96",
+      "location_univer": "г. Пермь, ул. Студенческая, 38",
       "educationPrograms": [
         {
           "name": "Биотехнология",
           "about": "интеграция естественных и инженерных наук, позволяющая наиболее полно реализовать возможности живых организмов или их производные для создания и модификации продуктов или процессов различного назначения",
           "priceEducation": 60000,
           "edu_code": "19.03.01",
-          "freeCountPlaces":15,
-          "passEgeValue":110,
+          "freeCountPlaces": 15,
+          "passEgeValue": 110,
           "subjects": [
             {
               "name": "Русский язык",
               "value": 34
-
             },
             {
               "name": "Математика",
               "value": 27
-
             },
             {
               "name": "Химия",
@@ -232,18 +220,16 @@
           "about": "комплекс научно-практических дисциплин, изучающих проблемы создания, безопасности, исследования, хранения, изготовления, отпуска и маркетинга лекарственных средств, а также поиска природных источников лекарственных субстанций.",
           "priceEducation": 110000,
           "edu_code": "33.05.01",
-          "passEgeValue":110,
-          "freeCountPlaces":215,
+          "passEgeValue": 110,
+          "freeCountPlaces": 215,
           "subjects": [
             {
               "name": "Русский язык",
               "value": 34
-
             },
             {
               "name": "Математика",
               "value": 27
-
             },
             {
               "name": "Химия",
@@ -254,27 +240,23 @@
               "value": 36
             }
           ]
-
         },
         {
           "name": "Химическая технология",
           "about": "интеграция естественных и инженерных наук, позволяющая наиболее полно реализовать возможности живых организмов или их производные для создания и модификации продуктов или процессов различного назначения",
-          "priceEducation":60000,
+          "priceEducation": 60000,
           "edu_code": "18.03.01",
-
-          "passEgeValue":110,
-          "freeCountPlaces":215,
-          "CountPlaces":100,
+          "passEgeValue": 110,
+          "freeCountPlaces": 215,
+          "CountPlaces": 100,
           "subjects": [
             {
               "name": "Русский язык",
               "value": 34
-
             },
             {
               "name": "Математика",
               "value": 27
-
             },
             {
               "name": "Химия",
@@ -287,61 +269,406 @@
     {
       "id": 3,
       "name": "Российская академия народного хозяйства и государственной службы при Президенте РФ — филиал в г. Пермь",
-      "about":"",
+      "about": "",
       "priceEducation": "110000",
       "average_priceEducation": "1000",
-      "placeEducation": 25,
-      "average_ege": 20,
       "website_link": "http://www.perm.ranepa.ru/abitur",
       "location": "Пермь",
-      "directions":[],
-
+      "directions": [],
+      "countPlaces": 530,
+      "image": "http://foto.cheb.ru/foto/foto.cheb.ru-128667.jpg",
+      "phoneNumber": "+7 (342) 212-49-24",
+      "location_univer": "г. Пермь, б-р Гагарина, д. 10",
       "educationPrograms": [
         {
           "name": "Государственное и муниципальное управление",
-          "about":"",
+          "about": "",
           "priceEducation": 87720,
           "edu_code": "38.03.04",
-          "freeCountPlaces":5,
-          "CountPlaces":20,
-          "passEgeValue":110
+          "freeCountPlaces": 5,
+          "CountPlaces": 195,
+          "passEgeValue": 110,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 34
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            }
+          ]
         },
         {
           "name": "Менеджмент",
-          "about":"",
+          "about": "",
           "priceEducation": 85680,
           "edu_code": "38.03.02",
-
-          "passEgeValue":105,
-          "freeCountPlaces":215,
-          "CountPlaces":40
+          "passEgeValue": 105,
+          "CountPlaces": 64,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            }
+          ]
         },
         {
           "name": "Экономика",
-          "about":"",
+          "about": "",
           "priceEducation": 86700,
           "edu_code": "33.05.01",
-          "passEgeValue":105,
-          "freeCountPlaces":5,
-          "CountPlaces":30
+          "passEgeValue": 105,
+          "CountPlaces": 95,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            }
+          ]
         },
         {
           "name": "Юриспруденция",
-          "about":"",
           "priceEducation": 89760,
           "edu_code": "40.03.01",
-          "professions": [],
-          "specification":"Гражданское право",
-          "universities": [],
-          "countUniversities": 0,
-          "countProfessions": 0,
-          "passEgeValue":105,
-          "freeCountPlaces":5,
-          "CountPlaces":20
+          "passEgeValue": 105,
+          "CountPlaces": 184,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "История",
+              "value": 32
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Пермский институт Российского экономического университета имени Г.В. Плеханова",
+      "about": "",
+      "priceEducation": "41500",
+      "website_link": "http://www.rea.perm.ru/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 475,
+      "image": "http://rudocs.exdat.com/data/492/491650/491650_html_m17b1b6ef.jpg",
+      "phoneNumber": "+7 (342) 263-26-75",
+      "location_univer": "г. Пермь, б-р Гагарина, д. 57​​",
+      "educationPrograms": [
+        {
+          "name": "Технология организации ресторанного дела",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "19.03.02",
+          "CountPlaces": 95,
+          "passEgeValue": 159,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Химия",
+              "value": 45
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Прикладная информатика в экономике",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "09.03.03",
+          "CountPlaces": 45,
+          "passEgeValue": 169,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Информатика",
+              "value": 40
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Финансы и кредит",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.01",
+          "CountPlaces": 49,
+          "passEgeValue": 204,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 45
+            },
+            {
+              "name": "Обществознание",
+              "value": 45
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Коммерция",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.06",
+          "CountPlaces": 30,
+          "passEgeValue": 229,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Менеджмент организации торговли",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.02",
+          "CountPlaces": 27,
+          "passEgeValue": 115,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Товарный менеджмент",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.02",
+          "CountPlaces": 55,
+          "passEgeValue": 128,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Пермский государственный национальный исследовательский университет",
+      "about": "",
+      "priceEducation": "48300",
+      "website_link": "http://www.rea.perm.ru/",
+      "location": "Пермь",
+      "directions": [],
+      "countPlaces": 3605,
+      "image": "https://static.panoramio.com.storage.googleapis.com/photos/large/58171830.jpg",
+      "phoneNumber": "+7 (342) 239-64-35",
+      "location_univer": " г. Пермь, ул. Букирева, д. 15",
+      "educationPrograms": [
+        {
+          "name": "Технология организации ресторанного дела",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "19.03.02",
+          "CountPlaces": 95,
+          "passEgeValue": 159,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Химия",
+              "value": 45
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Прикладная информатика в экономике",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "09.03.03",
+          "CountPlaces": 45,
+          "passEgeValue": 169,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Информатика",
+              "value": 40
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Финансы и кредит",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.01",
+          "CountPlaces": 49,
+          "passEgeValue": 204,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 45
+            },
+            {
+              "name": "Обществознание",
+              "value": 45
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Коммерция",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.06",
+          "CountPlaces": 30,
+          "passEgeValue": 229,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Менеджмент организации торговли",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.02",
+          "CountPlaces": 27,
+          "passEgeValue": 115,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
+        },
+        {
+          "name": "Товарный менеджмент",
+          "about": "",
+          "priceEducation": 41500,
+          "edu_code": "38.03.02",
+          "CountPlaces": 55,
+          "passEgeValue": 128,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 40
+            },
+            {
+              "name": "Обществознание",
+              "value": 42
+            },
+            {
+              "name": "Математика",
+              "value": 30
+            }
+          ]
         }
       ]
     }
   ],
-  "professions":[],
-  "educationPrograms":[]
+  "professions": [],
+  "educationPrograms": []
 }
