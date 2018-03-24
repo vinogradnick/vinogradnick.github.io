@@ -62,7 +62,7 @@
           "countProfessions": 0,
           "passEgeValue":110,
           "freeCountPlaces":215,
-          "CountPlaces":50,
+          "CountPlaces":50
         },
         {
           "name": "Химическая технология",
@@ -75,7 +75,7 @@
           "countProfessions": 0,
           "passEgeValue":110,
           "freeCountPlaces":215,
-          "CountPlaces":100,
+          "CountPlaces":100
         }
       ]
     },
@@ -116,7 +116,7 @@
           "countProfessions": 0,
           "passEgeValue":105,
           "freeCountPlaces":215,
-          "CountPlaces":40,
+          "CountPlaces":40
         },
         {
           "name": "Экономика",
@@ -149,5 +149,5 @@
     }
   ],
   "professions":[],
-  "educationPrograms":[],
+  "educationPrograms":[]
 }
