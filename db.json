@@ -2,7 +2,7 @@
   "univers": [
     {
       "id": 1,
-      "name": "Национального исследовательского университета \"Высшая школа экономики\"",
+      "name": "Национально исследовательский университет Высшей школы экономики",
       "about": "about university",
       "priceEducation": "125 000",
       "average_ege": 78.03,
@@ -745,6 +745,290 @@
       "phoneNumber": "+7 (342) 281-95-52",
       "location_univer": "г. Пермь, б-р Гагарина, д. 35",
       "educationPrograms": []
+    },
+    {
+      "id": 10,
+      "name": "Казанский (Приволжский) федеральный университет",
+      "about": "about university",
+      "priceEducation": "125 000",
+      "average_ege": 79.41,
+      "website_link": "http://kpfu.ru/",
+      "location": "Казань",
+      "countPlaces": 458,
+      "image": "http://gazetadaily.ru/wp-content/uploads/2016/10/11255.jpg",
+      "phoneNumber": "+7 (843) 233-71-09",
+      "location_univer": "г. Казань, ул. Кремлевская, 18",
+      "educationPrograms": [
+        {
+          "name": "Биология",
+          "priceEducation": 125000,
+          "edu_code": "06.03.01",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 15,
+          "passEgeValue": 150,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Педагогическое образование",
+          "priceEducation": 125000,
+          "edu_code": "44.03.05",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 5,
+          "passEgeValue": 20,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Обществознание",
+              "value": 36
+            },
+            {
+              "name": "биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Лечебное дело",
+          "priceEducation": 125000,
+          "edu_code": "31.05.01",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 25,
+          "passEgeValue": 70,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            },
+            {
+              "name": "Химия",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Стоматология",
+          "priceEducation": 125000,
+          "edu_code": "31.05.03",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 35,
+          "passEgeValue": 15,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Химия",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Фармация",
+          "priceEducation": 125000,
+          "edu_code": "33.05.01",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 15,
+          "passEgeValue": 10,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Химия",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Медицинская биохимия",
+          "priceEducation": 125000,
+          "edu_code": "30.05.01",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 5,
+          "passEgeValue": 10,
+          "subjects": [
+            {
+              "name": "Русский язык",
+              "value": 36
+            },
+            {
+              "name": "Химия",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Медицинская биофизика",
+          "priceEducation": 125000,
+          "edu_code": "30.05.02",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 5,
+          "passEgeValue": 10,
+          "subjects": [{
+            "name": "Русский язык",
+            "value": 36
+          },
+            {
+              "name": "Физика",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Медицинская кибернетика",
+          "priceEducation": 125000,
+          "edu_code": "30.05.03",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 5,
+          "passEgeValue": 10,
+          "subjects": [{
+            "name": "Русский язык",
+            "value": 36
+          },
+            {
+              "name": "Математика",
+              "value": 36
+            },
+            {
+              "name": "Биология",
+              "value": 36
+            }
+          ]
+        },
+        {
+          "name": "Гидрометеорология",
+          "priceEducation": 125000,
+          "edu_code": "30.05.04",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 5,
+          "passEgeValue": 20,
+          "subjects": [{
+            "name": "Русский язык",
+            "value": 36
+          },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "География",
+              "value": 37
+            }
+          ]
+        },
+        {"name": "Землеустройство и кадастры",
+          "priceEducation": 125000,
+          "edu_code": "21.03.02",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 10,
+          "passEgeValue": 25,
+          "subjects": [{
+            "name": "Русский язык",
+            "value": 36
+          },
+            {
+              "name": "Физика",
+              "value": 36
+            },
+            {
+              "name": "Математика",
+              "value": 27
+            }
+          ]
+        },
+        {
+          "name": "Экология и природопользование",
+          "priceEducation": 125000,
+          "edu_code": "05.03.06",
+          "professions": [],
+          "universities": [],
+          "countUniversities": 0,
+          "countProfessions": 0,
+          "freeCountPlaces": 20,
+          "passEgeValue": 55,
+          "subjects": [{
+            "name": "Русский язык",
+            "value": 36
+          },
+            {
+              "name": "Математика",
+              "value": 27
+            },
+            {
+              "name": "Геграфия",
+              "value": 37
+            }
+          ]
+        }
+      ]
     }
   ],
   "professions": [],
