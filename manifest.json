@@ -1,22 +1,12 @@
 {
-    "short_name": "UniversitySearch",
+    "short_name": "Поиск вуза",
     "name": "Поиск университетов по результатам ЕГЭ",
     "icons": [
       {
-        "src": "launcher-icon-1x.png",
+        "src": "icon.png",
         "type": "image/png",
-        "sizes": "48x48"
+        "sizes": "256x256"
       },
-      {
-        "src": "launcher-icon-2x.png",
-        "type": "image/png",
-        "sizes": "96x96"
-      },
-      {
-        "src": "launcher-icon-4x.png",
-        "type": "image/png",
-        "sizes": "192x192"
-      }
     ],
     "start_url": "index.html?launcher=true",
     "display": "standalone"
