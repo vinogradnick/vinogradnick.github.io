@@ -8,6 +8,5 @@
         "sizes": "256x256"
       }
     ],
-    "start_url": "index.html?launcher=true",
     "display": "standalone"
   }
