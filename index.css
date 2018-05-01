@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&subset=cyrillic');
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Lobster', cursive;
+}
+
+nav{
+	display: flex;
+	flex-direction: row;
+	background-color: pink;
+	justify-content: space-around;
+	padding: 20px;
+}
+nav h3.logo{
+	font-size: 30px;
+}
+nav>ul{
+	display: flex;
+	flex-direction: row;
+	list-style: none;
+}
+nav>ul>li.link-item{
+	margin-left: 50px;
+}
+
+nav>ul>li.link-item>a.link{
+	font-size: 25px;
+	text-decoration: none;
+}
+.banner{
+
+}
+.content{
+	height: 800px;
+	background: url("img/bg1.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.content .main-text{
+	padding-top: 400px;
+	text-align: center;
+	font-size: 72px;
+	color: snow;
+}
+
+.negative{
+	padding-top: 50px;
+	background-color: #2b284c;
+	padding-bottom: 50px;
+}
+.negative .header-text{
+	text-align: center;
+	color:snow;
+	padding-bottom: 50px;
+	font-size: 60px;
+}
+.negative .negative-types{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.negative .negative-types .negative-element{
+	width: 200px;
+}
+.negative .negative-types .negative-element:hover{
+	color: snow;
+}
+.love{
+	background-color: #4d4382;
+}
+.love .photo-albom{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.love .photo-albom>.photo{
+	width:200px;
+	text-align: center;
+}
+.love .photo-albom>.photo img{
+	width: 150px;
+	height: 150px;
+	filter: blur(5px);
+}
+.love .photo-albom>.photo img:hover{
+	width: 300px;
+	height: 300px;
+	filter: blur(0);
+
+}
+.happines{
+
+
+}
+.happines .happines-video{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	box-shadow: 10px black;
+}
+.pleasure-sound{
+	width: 600px;
+	margin: auto;
+}
+
+footer{
+	background-color: pink;
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-bottom: 100px;
+}
+.footer-text{
+	text-align: left;
+	font-size: 50px;
+}
+ .side-text{
+ 	padding-top: 20px;
+	width: 300px;
+}
