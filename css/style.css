@@ -1,0 +1,38 @@
+.nav{
+    background-color: #4C4A48;
+}
+.banner{
+    background-color: white;
+    height: 70vh;
+    padding: 70px;
+}
+.banner h1{
+    font-size: 50px;
+    font-weight: 500;
+    color: #4C4A48;
+}
+.service{
+    background: #4C4A48;
+    height: 500px;
+}
+.contact{
+    background-color: #515C6B;
+    padding: 20px;
+}
+.portfolio{
+    height: 400px;
+}
+.contact .about-me{
+    font-size: 25px;
+    font-style: italic;
+    color: snow;
+    padding: 10px;
+    font-weight: 300;
+}
+.brand-logo{
+    margin:5px;
+}
+.portfolio-link{
+    color: #4C4A48;
+    font-size: 30px;
+}
