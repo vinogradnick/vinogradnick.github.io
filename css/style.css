@@ -1,26 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .nav{
     background-color: #4C4A48;
 }
 .banner{
-    background-color: white;
-    height: 70vh;
-    padding: 70px;
+
+    height: 500px;
+
 }
+
 .banner h1{
+    padding-top: 70px;
     font-size: 50px;
     font-weight: 500;
-    color: #4C4A48;
+    color: snow;
+}
+.banner .banner-p{
+    font-size: 40px;
+    font-style: italic;
+    color: whitesmoke;
 }
 .service{
     background: #4C4A48;
-    height: 500px;
+    padding: 50px;
 }
 .contact{
     background-color: #515C6B;
     padding: 20px;
 }
 .portfolio{
-    height: 400px;
+    padding: 70px;
 }
 .contact .about-me{
     font-size: 25px;
@@ -35,4 +46,11 @@
 .portfolio-link{
     color: #4C4A48;
     font-size: 30px;
+}
+.contact-form{
+    border-radius: 10px;
+    padding: 10px;
+}
+.btn-send{
+    border-radius: 10px;
 }
